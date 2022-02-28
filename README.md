@@ -1,8 +1,4 @@
 # yakubenko_qa
-[ѕример моих тест кейсов](ссылка с домашним заданием к уроку 2.6)
+[ѕример моих тест кейсов](https://docs.google.com/spreadsheets/d/1NC4ZaU6-YmA9ROGEIowqTF-EI1Fps7V30HetuTZFlxk/edit?usp=sharing)
 
-https://docs.google.com/spreadsheets/d/1NC4ZaU6-YmA9ROGEIowqTF-EI1Fps7V30HetuTZFlxk/edit?usp=sharing
-
-[ѕример моего тестового задани€](ссылка с домашним заданием  к уроку 2.8)
-
-https://docs.google.com/spreadsheets/d/17npvkiETiqPZvi5eLfSXvoQk-VJ-hG4ell4Zj3kLrBY/edit?usp=sharing
+[ѕример моего тестового задани€](https://docs.google.com/spreadsheets/d/17npvkiETiqPZvi5eLfSXvoQk-VJ-hG4ell4Zj3kLrBY/edit?usp=sharing)
